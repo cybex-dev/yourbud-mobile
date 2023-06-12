@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717201931753",
+    "project_id": "yourbud-c3532",
+    "storage_bucket": "yourbud-c3532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717201931753:android:f4f2cc4d50a073bccd1f78",
+        "android_client_info": {
+          "package_name": "com.example.yourbud_client_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717201931753-c34n9qcdmfls5qll3erkgiqq0bf2r79n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA14ZRGwktYD0fpY8LtFeuC1YpYYjp_T1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717201931753-c34n9qcdmfls5qll3erkgiqq0bf2r79n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
